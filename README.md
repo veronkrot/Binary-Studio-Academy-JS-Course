@@ -13,4 +13,4 @@
 [Code base](https://github.com/veronkrot/Rick-and-Morty-Blog)
 
 4. BSA-2019-Testing task
-[demo](https://github.com/veronkrot/BSA-2019-Testing)
+[Code base](https://github.com/veronkrot/BSA-2019-Testing)
